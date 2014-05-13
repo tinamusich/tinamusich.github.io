@@ -227,6 +227,17 @@ body {margin: 0;}
   width: 100px;
 }
 
+.sg-color-wide {
+  background: #fff;
+  border: 1px solid #bbb;
+  display: inline-block;
+  height: 100px;
+  margin: 0 .5em .5em 0;
+  padding: 5px;
+  position: relative;
+  width: 200px;
+}
+
 .sg-color-swatch {
   display: block;
   height: 100%;
