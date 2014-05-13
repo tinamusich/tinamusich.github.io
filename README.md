@@ -113,3 +113,5 @@ review the [guidelines for contributing](CONTRIBUTING.md).
 **Style Guide Boilerplate** is licensed under the [MIT License](http://en.wikipedia.org/wiki/MIT_License)
 
 Use it, build upon it, make awesome shit with it.
+
+I just made a super cool change fuck yeah! 
