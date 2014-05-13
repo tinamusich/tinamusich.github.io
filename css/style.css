@@ -138,10 +138,12 @@ li#horizontal{
 .horizontal-nav a:link{
     color: red;
     font-size: 30px;
+    text-decoration: none
 }
 
 .horizontal-nav a:hover{
     color: red;
+    text-decoration: none
 }
 
 /* -------------------------------------------------------------------------
