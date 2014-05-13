@@ -121,7 +121,7 @@
  Nav Bar
 ---------------------------------------------------------------------------- */
 li#horizontal{
-    text-decoration: none;
+    list-style-type: none;
 }
 
 
