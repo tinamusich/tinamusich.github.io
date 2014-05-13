@@ -135,12 +135,12 @@ li#horizontal{
     margin-right: 40px;
 }
 
-a.horizontal-nav:link{
+.horizontal-nav a:link{
     color: red;
     font-size: 30px;
 }
 
-a.horizontal-nav:hover{
+.horizontal-nav a:hover{
     color: red;
 }
 
