@@ -140,8 +140,8 @@ li#horizontal{
     text-decoration: none
 }
 
-#horizontal a:hover{
-    color: red;
+#horizontal a:visited{
+    color: white;
     text-decoration: none
 }
 
@@ -150,10 +150,12 @@ li#horizontal{
     text-decoration: none
 }
 
-#horizontal a:visited{
-    color: white;
+#horizontal a:hover{
+    color: red;
     text-decoration: none
 }
+
+
 
 /* -------------------------------------------------------------------------
  Breadcrumbs
