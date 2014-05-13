@@ -145,6 +145,16 @@ li#horizontal{
     text-decoration: none
 }
 
+#horizontal a:active{
+    color: #94A3AB;
+    text-decoration: none
+}
+
+#horizontal a:visited{
+    color: white;
+    text-decoration: none
+}
+
 /* -------------------------------------------------------------------------
  Breadcrumbs
 ---------------------------------------------------------------------------- */
