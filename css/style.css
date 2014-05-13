@@ -135,7 +135,7 @@ li#horizontal{
     margin-right: 40px;
 }
 
-a:link.horizontal-nav{
+a:link horizontal-nav{
    color: red;
 }
 
