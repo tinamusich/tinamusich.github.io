@@ -122,9 +122,11 @@
 ---------------------------------------------------------------------------- */
 ul#horizontal{
     list-style-type: none;
-    width: 50%;
+    width: 40%;
     background-color:#3B4B54;
     padding:30px;
+    color: white;
+    font: "HelveticaNeue", "Helvetica", Arial, sans-serif;
 }
 
 li#horizontal{
