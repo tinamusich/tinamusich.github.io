@@ -127,6 +127,7 @@ ul#horizontal{
 
 li#horizontal{
     display: inline-block;
+    margin-right: 40px;
 }
 
 
