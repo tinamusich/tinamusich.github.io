@@ -136,8 +136,7 @@ li#horizontal{
 }
 
 #horizontal a:link{
-    color: red;
-    font-size: 30px;
+    color: white;
     text-decoration: none
 }
 
